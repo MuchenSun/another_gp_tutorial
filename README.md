@@ -1,3 +1,9 @@
+```
+This tutorial is heavily based on Dan Foreman-Mackey's original amazing hands-on GP tutorial, which literally helps me enter the world of GP. After finishing the tutorial, as a reader/user myself, I think this tutorial might be even more helpful if I could include more details, so here we are.
+
+Compared with original version, here I added more explanation about multi-variate Gaussian distribution, the role of covariance matrix, and exposed more details of regression with GP.
+```
+
 This repository contains an interactive IPython worksheet (`worksheet.ipynb`)
 designed to introduce you to Gaussian Process models. Only very minimal
 experience with Python should be necessary to get something out of this.
