@@ -24,6 +24,7 @@ don't already have a working Python installation (and maybe even if you do), I
 recommend using the [Anaconda distribution](http://continuum.io/downloads) and
 then running `pip install emcee`.
 
+Also, this tutorial has several sections using jupyter widgets, please refer [**here**](https://ipywidgets.readthedocs.io/en/latest/index.html) to install and configure. Configuration may depend on system and may differ from jupyter-notebook and jupyter-lab.
 
 Usage
 -----
